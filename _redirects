@@ -1,6 +1,6 @@
-/login       /akses.html      301
-/daftar      /daftar.html     301
-/solusi      /solusi.html     301
-/modul       /modul.html      301
-/cara-kerja  /cara-kerja.html 301
-/faq         /faq.html        301
+/fitur       /modul.html      200
+/login       /akses.html      200
+/daftar      /daftar.html     200
+/tentang     /solusi.html     200
+/aktivitas   /cara-kerja.html 200
+/faq         /faq.html        200
